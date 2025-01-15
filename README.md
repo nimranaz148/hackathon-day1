@@ -102,9 +102,5 @@ This Nike-focused eCommerce platform caters to both sneakerheads and casual runn
 - **Customer Management**: View user details and order history.  
 - **Analytics**: Track sales, customer behavior, and popular products.  
 
-## Installation ⚙️
 
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/nike-shoes-ecommerce.git
 
